@@ -1,5 +1,5 @@
 ---
-name: api-contract-automation-v2
+name: api-contract-automation
 description: Рабочая инструкция для автоматизации контрактных API-тестов в msg-tests по OpenAPI/Jira/Wiki/msg-docs и существующему стилю проекта.
 ---
 
